@@ -1,3 +1,8 @@
+---
+name: aco-design-guidelines
+description: Review files for compliance with ACO UI Design Guidelines. Clean, minimal, brutalist-lite style for plugins and desktop apps.
+---
+
 # aco-design-guidelines
 
 Review files for compliance with ACO UI Design Guidelines.
