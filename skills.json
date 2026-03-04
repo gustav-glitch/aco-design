@@ -1,0 +1,10 @@
+{
+  "skills": [
+    {
+      "name": "aco-design-guidelines",
+      "description": "Review files for compliance with ACO UI Design Guidelines. Clean, minimal, brutalist-lite style for plugins and desktop apps.",
+      "instructions": "Fetch the latest design guidelines from https://raw.githubusercontent.com/gustav-glitch/aco-design/main/markdown.md before each review. Read the specified files (or prompt user for files/pattern). Check against all rules in the fetched guidelines covering typography, colors, spacing, components and dark mode. Output findings in file:line format.",
+      "usage": "When a user provides a file or pattern argument, fetch guidelines from the source URL, read the specified files, apply all rules, and output findings. If no files are specified, ask the user which files to review."
+    }
+  ]
+}
